@@ -84,6 +84,7 @@ Each significant decision is written as an ADR before code depends on it. A sele
 
 ```
 README.md                 this overview
+LICENSE                   all rights reserved
 docs/architecture.md      current architecture
 docs/decisions/           selected Architecture Decision Records
 ```
@@ -91,3 +92,5 @@ docs/decisions/           selected Architecture Decision Records
 ---
 
 Built by [Emre Dal](https://github.com/byemredal) · [qaxora.com](https://qaxora.com)
+
+© 2026 Emre Dal. All rights reserved. This documentation is published for reading only and is not licensed for reuse. See [LICENSE](LICENSE).
